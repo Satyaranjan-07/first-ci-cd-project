@@ -43,3 +43,5 @@ WHAT I LEARNED:
 3 - Secure credential management with GitHub Secrets
 4 -Building and pushing Docker images
 5 - Understanding DevOps workflow fundamentals
+
+CI/CD pipeline worked successfully.

@@ -1,0 +1,23 @@
+{
+  "name": "first-ci-cd-project",
+  "version": "1.0.0",
+  "description": "CI/CD PIPELINE FOR NODE.JS APPLICATION\r Project Overview:\r This project demonstrates a basic CI/CD pipeline built using GitHub Actions and Docker. The goal of this project is to understand how code changes can be automatically built and packaged using a CI/CD workflow.\r Whenever code is pushed to the main branch, the pipeline runs automatically to install dependencies, build a Docker image, and push it to DockerHub.\r This project was developed as part of my learning journey in DevOps and cloud fundamentals.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satyaranjan-07/first-ci-cd-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satyaranjan-07/first-ci-cd-project/issues"
+  },
+  "homepage": "https://github.com/Satyaranjan-07/first-ci-cd-project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
