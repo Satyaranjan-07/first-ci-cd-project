@@ -45,3 +45,4 @@ WHAT I LEARNED:
 5 - Understanding DevOps workflow fundamentals
 
 CI/CD pipeline worked successfully.
+CI/CD test trigger
